@@ -17,7 +17,7 @@
 -Used Png and Jpeg's for the Images which uses onClick() to show weight on thier respective self.<br>
 -Used Some Google Fonts as Well<br>
 -Gone Creative with Border radius and background Image<br>
--Learned to used Marings and Padding<br>
+-Learned to used Margins and Padding a bit More<br>
 -Learned a Lot!!<br>
 
 <br>
