@@ -2,6 +2,8 @@
 
 <h2> YO! 🤟</h2>
 
+<h3>Demo : https://ashutoshky.github.io/Solar-Weight/ </h3>
+
 <h2>Just Enter Your Weight and See the Magic of Gravity of Diffrent Planets</h2>
 
 <br>
